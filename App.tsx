@@ -396,7 +396,7 @@ const App: React.FC = () => {
               </li>
               <li className="flex items-center gap-2 hover:text-white transition-colors">
                  <MessageCircle size={18} className="text-green-500" />
-                 <a href={whatsappLink}>14 99151-3831 (WhatsApp)</a>
+                 <a href={whatsappLink}>14 99121-8384 (WhatsApp)</a>
               </li>
               <li className="flex items-center gap-2">
                 <MapPin size={18} className="text-blue-500" />

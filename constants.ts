@@ -2,7 +2,7 @@ import { Wrench, Snowflake, Wind, ShieldCheck, Thermometer, Settings } from 'luc
 import { ServiceItem, TestimonialItem, NavItem } from './types';
 
 // Company Info
-export const WHATSAPP_NUMBER = "5514991513831";
+export const WHATSAPP_NUMBER = "5514991218384";
 export const WHATSAPP_MESSAGE = "Olá, tenho interesse no serviço de climatização.";
 export const LOGO_URL = "https://fal.media/files/penguin/v2H7_wE5HqW7bL4Xn-m6e_image.png"; 
 
